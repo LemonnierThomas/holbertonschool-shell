@@ -1,4 +1,5 @@
-holbertonschool-shell/permissions:
+
+0;276;0cholbertonschool-shell/permissions:
 
 0-iam_betty : this script can be used for switch the current user on "betty"
 
@@ -17,4 +18,6 @@ holbertonschool-shell/permissions:
 7-everybody : adds execute permissions to fileowner, group and other user.
 
 8-james_bond : give all permission to other users and no permission to file owner and group.
+
+9-John Doe : set mode for file "hello" to -rwxr-x-wx
 
