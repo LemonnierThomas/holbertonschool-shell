@@ -15,3 +15,6 @@ holbertonschool-shell/permissions:
 6-multiple_permissions : this script adds execute permissions to file owner and group owner, and give read only to other user
 
 7-everybody : adds execute permissions to fileowner, group and other user.
+
+8-james_bond : give all permission to other users and no permission to file owner and group.
+
