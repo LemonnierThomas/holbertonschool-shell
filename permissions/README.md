@@ -21,3 +21,4 @@
 
 9-John Doe : set mode for file "hello" to -rwxr-x-wx
 
+10-mirror_permissions : a script who mirror the permission of hello and olleh file.
