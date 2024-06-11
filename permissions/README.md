@@ -8,3 +8,5 @@ holbertonschool-shell/permissions:
 
 3-new_owner : used to change the owner of "hello" file to betty.
 
+4-empty : create an empty file named "hello"
+
