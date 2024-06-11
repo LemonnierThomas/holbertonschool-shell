@@ -10,3 +10,4 @@ holbertonschool-shell/permissions:
 
 4-empty : create an empty file named "hello"
 
+5-execute : this script add the permission to execute the file to the file owner
