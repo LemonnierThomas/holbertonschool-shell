@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATHaction
+echo $PATH:action
