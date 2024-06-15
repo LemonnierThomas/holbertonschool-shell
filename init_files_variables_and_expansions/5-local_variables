@@ -1,2 +1,3 @@
 #!/bin/bash
-declare -p | printenv | declare -F
+#!/bin/bash
+declare -p | printenv | declare -F | sort
